@@ -1,0 +1,16 @@
+//_ 下划线不会被编译成css 导入时候不用加下划线
+// config
+@import 'variables';
+
+// layout
+@import 'reboot';
+
+// mixin
+@import 'mixin';
+
+//button
+@import '../components/Button/style';
+
+
+// menu
+@import '../components/Menu/style';
